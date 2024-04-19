@@ -500,7 +500,3 @@ table.is-analysis tbody tr.description-step td {
 .index .index-area div a:hover {
   color: #4EA2FF;
 }
-.index .index-area div a.disabled {
-  opacity: 0.4;
-  pointer-events: none;
-}

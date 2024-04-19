@@ -488,10 +488,6 @@ table{
                 &:hover{
                     color: $lightblue;
                 }
-                &.disabled{
-                    opacity: .4;
-                    pointer-events: none;
-                }
             }
         }
     }
